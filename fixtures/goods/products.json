@@ -1,0 +1,170 @@
+[
+    {
+        "model": "goods.products",
+        "pk": 13,
+        "fields": {
+            "name": "Premiata",
+            "slug": "premiata",
+            "description": "Мужские кроссовки Mase 6626",
+            "image": "",
+            "price": "85.99",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 5
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 14,
+        "fields": {
+            "name": "The North Face",
+            "slug": "the-north-face",
+            "description": "Мужские кроссовки Summit Vectiv Pro II",
+            "image": "",
+            "price": "120.99",
+            "discount": "0.00",
+            "quantity": 5,
+            "category": 9
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 15,
+        "fields": {
+            "name": "The North Face 2",
+            "slug": "the-north-face-2",
+            "description": "Женские кроссовки Vectiv Infinite II Trail Running",
+            "image": "",
+            "price": "95.99",
+            "discount": "0.00",
+            "quantity": 450,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 16,
+        "fields": {
+            "name": "Reebok",
+            "slug": "reebok",
+            "description": "Кроссовки Premier Road Plus VI",
+            "image": "",
+            "price": "70.00",
+            "discount": "0.00",
+            "quantity": 7,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 17,
+        "fields": {
+            "name": "Premiрta",
+            "slug": "premiata-2",
+            "description": "Женские кроссовки Beth 6713",
+            "image": "",
+            "price": "150.00",
+            "discount": "0.00",
+            "quantity": 3,
+            "category": 5
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 18,
+        "fields": {
+            "name": "Nike",
+            "slug": "nike",
+            "description": "Кроссовки Wmns Dunk Low UNLV Satin",
+            "image": "",
+            "price": "60.00",
+            "discount": "0.00",
+            "quantity": 23,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 19,
+        "fields": {
+            "name": "New Balance",
+            "slug": "new-balance",
+            "description": "Кроссовки BB550VTA.",
+            "image": "",
+            "price": "74.00",
+            "discount": "0.00",
+            "quantity": 53,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 20,
+        "fields": {
+            "name": "ASICS",
+            "slug": "asics",
+            "description": "Женские кроссовки Gel-Sonoma 15-50",
+            "image": "",
+            "price": "97.00",
+            "discount": "0.00",
+            "quantity": 25,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 21,
+        "fields": {
+            "name": "SUNCORE",
+            "slug": "suncore",
+            "description": "Кроссовки Camp-2 Light",
+            "image": "",
+            "price": "170.00",
+            "discount": "0.00",
+            "quantity": 11,
+            "category": 5
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 22,
+        "fields": {
+            "name": "Maison Margiela MM6",
+            "slug": "maison-margiela-mm6",
+            "description": "Мужские кроссовки 6 Court Leather.",
+            "image": "",
+            "price": "180.00",
+            "discount": "0.00",
+            "quantity": 5,
+            "category": 5
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 23,
+        "fields": {
+            "name": "Jordan",
+            "slug": "jordan",
+            "description": "Женские кроссовки Wmns Air Jordan 1 Elevate Low",
+            "image": "",
+            "price": "68.00",
+            "discount": "0.00",
+            "quantity": 13,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 24,
+        "fields": {
+            "name": "Rick Owens DRKSHDW",
+            "slug": "rick-owens-drkshdw",
+            "description": "Мужские кроссовки Lido Vintage High.",
+            "image": "",
+            "price": "200.00",
+            "discount": "0.00",
+            "quantity": 6,
+            "category": 5
+        }
+    }
+]
